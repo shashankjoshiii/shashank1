@@ -1,0 +1,33 @@
+*{
+background-color: #24264d;
+}
+
+
+#navbar{
+    height: 90px;
+    background-color: #e0b61d;
+    color: white;
+    
+}
+a{
+    margin-right: 200px;
+    color: #cf387c;
+    background-color: #e0c5d1;
+   font-size: 1.1rem;
+}
+.main_photo{
+   float:none;
+    align-content: center;
+}
+#welcome{
+    text-align: center;
+    font-size:1.5rem;
+    color: skyblue;
+    
+     
+}
+#para
+{
+    color: aquamarine;
+    font-size: 24px;
+}
